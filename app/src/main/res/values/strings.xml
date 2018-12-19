@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Extrato</string>
+    <string name="activity_login_login">Login</string>
+    <string name="activity_login_subtitle">Faça o login para ver seus extratos</string>
+    <string name="activity_login_email">Insira seu e-mail</string>
+    <string name="activity_login_password">Insira sua senha</string>
+    <string name="activity_statement_avaliable">Disponível</string>
+    <string name="activity_statement_limit">Limite</string>
+    <string name="activity_statement_used">Utilizado</string>
+    <string name="activity_statement_title">Extratos</string>
+    <string name="activity_statement_details_title">Detalhes</string>
+    <string name="activity_statement_details_date">Data da Parcela</string>
+    <string name="activity_statement_details_carnet">Numero do Carnet</string>
+    <string name="activity_statement_details_installment">Parcela</string>
+    <string name="activity_statement_details_value">Valor total da Parcela</string>
+    <string name="activity_splash_screen_mobile_solutions">Mobile solutions</string>
+    <string name="activity_splash_screen_all_rights_reserved">All Rights Reserved</string>
+</resources>
